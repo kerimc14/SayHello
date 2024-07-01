@@ -1,0 +1,20 @@
+{
+    "name": "SayHello",
+    "version": "1.0.4",
+    "description": "Library creation demo",
+    "keywords": "How To, PlatformIO Library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aliasthethird/SayHello.git"
+    }, 
+    "authors": [
+        {
+            "name": "Gero Nootz",
+            "email": "gero@nootz.de",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
