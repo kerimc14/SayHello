@@ -1,7 +1,7 @@
 # ChangeLog for Lib-Demo
 
 ## [1.0.5] - 2024-07-01
-### updated keywords in test
+### updated keywords in dummy test
 
 ## [1.0.4] - 2024-01-03
 ### updated keywords in library.jason
