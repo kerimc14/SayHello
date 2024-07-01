@@ -3,5 +3,5 @@
 void sayHello()
 {
     Serial.println("Hello");
-    delay(100);
+    delay(1000);
 }
